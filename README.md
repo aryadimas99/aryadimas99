@@ -1,8 +1,8 @@
+![Banner](https://raw.githubusercontent.com/aryadimas99/aryadimas99/main/Screenshot%202025-02-11%20143005.png)
+
 ## 👋 Hi, I'm Dimas Arya Sauki Alaudin  
 🚀 Aspiring Mobile Developer from South Jakarta.  
 📱 Currently learning Flutter/Dart while pursuing an Informatics degree.  
-
-![Banner](https://raw.githubusercontent.com/aryadimas99/aryadimas99/main/Screenshot%202025-02-11%20143005.png)
 
 ### 🌟 About Me  
 I am a **Flutter & Kotlin Developer** who loves creating mobile apps.  
