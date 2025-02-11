@@ -14,3 +14,6 @@ I am a **Flutter & Kotlin Developer** who loves creating mobile apps.
 ![Dimas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryadimas99&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryadimas99&layout=compact&theme=radical)
+
+### ⏳ Coding Activity:
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username)
