@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm Dimas Arya Sauki Alaudin  
+🚀 Aspiring Mobile Developer from South Jakarta.  
+📱 Currently learning Flutter/Dart while pursuing an Informatics degree.  
 
-<!--
-**aryadimas99/aryadimas99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://raw.githubusercontent.com/aryadimas99/aryadimas99/main/banner.png)
 
-Here are some ideas to get you started:
+### 🌟 About Me  
+I am a **Flutter & Kotlin Developer** who loves creating mobile apps.  
+- 🔭 Currently working on **a cool mobile project**  
+- 🌱 Exploring **Jetpack Compose & Flutter Widgets**  
+- 📫 Reach me at: **aryadimas895@example.com**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My GitHub Stats  
+![Dimas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryadimas99&show_icons=true&theme=radical)
